@@ -2,6 +2,6 @@
 
 [View the full project documentation here!](https://www.notion.so/Face-Morphing-0b168dfd720b4375be585ff6ede90d81)
 
-[Alternatively, you can view the raw image files/results in the "README & Image Files" folder above!]
+Alternatively, you can view the raw image files/results in the "README & Image Files" folder above!
 
-![Project Preview](Face%20Morphing%200b168dfd720b4375be585ff6ede90d81/morphseq.gif)
+![morphseq.gif](Face%20Morphing%200b168dfd720b4375be585ff6ede90d81/morphseq.gif)
