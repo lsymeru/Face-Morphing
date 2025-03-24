@@ -4,4 +4,4 @@
 
 Alternatively, you can view the raw image files/results in the "README & Image Files" folder above!
 
-![morphseq.gif](Face%20Morphing%200b168dfd720b4375be585ff6ede90d81/morphseq.gif)
+![morphseq.gif](README%20&%20Image%20Files/Face%20Morphing%200b168dfd720b4375be585ff6ede90d81/morphseq.gif)
